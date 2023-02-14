@@ -1,0 +1,30 @@
+body
+
+{
+background-color: aqua;
+
+}
+
+.heading
+
+{
+width: 80%;
+font-size: 35px;
+ border-radius: 20px;
+
+}
+
+#camera
+{
+border: 2px dotted black;
+width: 350px;
+height: 300px;
+}
+
+.name_of_objects,#result_object_name,#result_object_accuracy
+
+{
+color: darkslategrey;
+
+}
+
